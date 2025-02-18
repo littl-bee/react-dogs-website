@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
-        <footer class="footer-container">
-            <div class="footer-column">
+        <footer className="footer-container">
+            <div className="footer-column">
                 <h4>Contattaci</h4>
                 <ul>
                     <li><a href="#">Numero</a></li>
@@ -10,7 +10,7 @@ const Footer = () => {
                 </ul>
             </div>
 
-            <div class="footer-column">
+            <div className="footer-column">
                 <h4>Link rapidi</h4>
                 <ul>
                     <li><a href="#">About</a></li>
@@ -19,7 +19,7 @@ const Footer = () => {
                 </ul>
             </div>
 
-            <div class="footer-column">
+            <div className="footer-column">
                 <h4>Newsletter</h4>
                 <ul>
                     <li><a href="#">Iscriviti alla newsletter</a></li>
